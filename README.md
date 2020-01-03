@@ -35,4 +35,4 @@ Código referente a entrega do desafio final 9 do Bootcamp GoStack - Gympoint.
 
 ## Plataforma do aplicativo mobile
 
-Por não possuir um Macbook o código mobile foi desenvolvido apênas para Android.
+Por não possuir um Macbook o código mobile foi desenvolvido apenas para Android.
