@@ -1,24 +1,29 @@
-
 # Desafio Final 9 - Gympoint
 
-CÛdigo referente ‡ entrega do desafio final 9 do Bootcamp GoStack - Gympoint.
+C√≥digo referente a entrega do desafio final 9 do Bootcamp GoStack - Gympoint.
 
-## Inicializar aplicaÁ„o
+## Inicializar aplica√ß√£o
 
 ### Backend
+
 - server: yarn dev
 - queues: yarn queue
 
 ### Frontend
+
 - yarn start
 
 ### Mobile
+
 - yarn android
 - yarn start
 
-No cÛdigo mobile È necess·rio trocar o IP presente nos arquivos [services/api.js](https://github.com/filipebsmaia/gympoint/blob/master/mobile/src/services/api.js/) pelo da m·quina que est· rodando o backend.
+No c√≥digo mobile √© necess√°rio trocar o IP presente nos arquivos [services/api.js](https://github.com/filipebsmaia/gympoint/blob/master/mobile/src/services/api.js/) pelo da m√°quina que est√° rodando o backend.
+No c√≥digo frontend √© necess√°rio trocar o IP presente nos arquivos [services/api.js](https://github.com/filipebsmaia/gympoint/blob/master/frontend/src/services/api.js/) pelo da m√°quina que est√° rodando o backend (caso n√£o seja a mesma).
+Caso deseje utilizar o reactotron para ver os dados altere o ip do mesmos nas seguintes configura√ß√µes:
+Frontend: [config/ReactotronConfig.js](https://github.com/filipebsmaia/gympoint/blob/master/frontend/src/config/ReactotronConfig.js/)
+Mobile: [config/ReactotronConfig.js](https://github.com/filipebsmaia/gympoint/blob/master/mobile/src/config/ReactotronConfig.js/)
 
+## Plataforma do aplicativo mobile
 
-## Plataforma do aplicativo
-
-Por n„o possuir um Mac, o cÛdigo mobile foi desenvolvido para Android e testada apenas na mesma.
+Por n√£o possuir um Macbook o c√≥digo mobile foi desenvolvido ap√™nas para Android.

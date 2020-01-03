@@ -1,8 +1,5 @@
 import { Router } from 'express';
 
-// import multer from 'multer';
-// import multerConfig from './config/multer';
-
 import SessionController from './app/controllers/SessionController';
 import StudentsController from './app/controllers/StudentsController';
 import PlansController from './app/controllers/PlansController';
@@ -27,9 +24,6 @@ import validateStudentsUpdate from './app/validators/StudentsUpdate';
 import authMiddleware from './app/middlewares/auth';
 
 const routes = new Router();
-// const upload = multer(multerConfig);
-
-// routes.post('/users', UserController.store);
 routes.post('/sessions', validateSessionStore, SessionController.store);
 
 routes.get('/students', StudentsController.index);
