@@ -23,6 +23,8 @@ Código referente a entrega do desafio final 9 do Bootcamp GoStack - Gympoint.
 - yarn android
 - yarn start
 
+### Configurações locais
+
 - No código mobile é necessário trocar o IP presente nos arquivos [services/api.js](https://github.com/filipebsmaia/gympoint/blob/master/mobile/src/services/api.js/) pelo da máquina que está rodando o backend.
 - No código frontend é necessário trocar o IP presente nos arquivos [services/api.js](https://github.com/filipebsmaia/gympoint/blob/master/frontend/src/services/api.js/) pelo da máquina que está rodando o backend (caso não seja a mesma).
 
