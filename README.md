@@ -7,8 +7,9 @@ Código referente a entrega do desafio final 9 do Bootcamp GoStack - Gympoint.
 ### Backend
 
 - database:
-  -yarn sequelize db:migrate
-  -yarn sequelize db:seed:all
+
+  - yarn sequelize db:migrate
+  - yarn sequelize db:seed:all
 
 - server: yarn dev
 - queues: yarn queue
