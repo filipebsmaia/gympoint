@@ -2,6 +2,4 @@ backend/node_modules
 frontend/node_modules
 mobile/node_modules
 
-backend/.env
-frontend/.env
-mobile/.env
+*.env
