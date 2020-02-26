@@ -10,11 +10,11 @@ Código referente a entrega do desafio final 9 do Bootcamp GoStack - Gympoint.
 
 ### Web
 
-![Web1](https://github.com/filipebsmaia/gympoint/blob/master/imgs/mobile1.png)
-![Web2](https://github.com/filipebsmaia/gympoint/blob/master/imgs/mobile2.png)
-![Web3](https://github.com/filipebsmaia/gympoint/blob/master/imgs/mobile3.png)
-![Web4](https://github.com/filipebsmaia/gympoint/blob/master/imgs/mobile4.png)
-![Web5](https://github.com/filipebsmaia/gympoint/blob/master/imgs/mobile5.png)
+![Web1](https://github.com/filipebsmaia/gympoint/blob/master/imgs/web1.png)
+![Web2](https://github.com/filipebsmaia/gympoint/blob/master/imgs/web2.png)
+![Web3](https://github.com/filipebsmaia/gympoint/blob/master/imgs/web3.png)
+![Web4](https://github.com/filipebsmaia/gympoint/blob/master/imgs/web4.png)
+![Web5](https://github.com/filipebsmaia/gympoint/blob/master/imgs/web5.png)
 
 ## Inicializar aplicação
 
