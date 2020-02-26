@@ -18,15 +18,42 @@ Código referente a entrega do desafio final 9 do Bootcamp GoStack - Gympoint.
 
 ## Inicializar aplicação
 
+Instalando as dependências:
+
+```
+$ yarn
+```
+
+_or_
+
+```
+$ npm i
+```
+
 ### Backend
 
-- database:
+database:
 
-  - yarn sequelize db:migrate
-  - yarn sequelize db:seed:all
+```
+$ yarn sequelize db:migrate
+```
 
-- server: yarn dev
-- queues: yarn queue
+```
+$ yarn sequelize db:seed:all
+```
+
+_or_
+
+```
+$ npm run sequelize db:migrate
+```
+
+```
+$ npm run sequelize db:seed:all
+```
+
+server: `$ yarn dev` _or_ `$ npm run dev`
+queues: `$ yarn queue` _or_ `$ npm run queue`
 
 ### Frontend
 
