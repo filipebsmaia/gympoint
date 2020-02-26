@@ -3,7 +3,7 @@
 Código referente a entrega do desafio final 9 do Bootcamp GoStack - Gympoint.
 
 ## Telas da aplicação
-
+* Imagens a partir do figma - Os layouts tanto na web tanto no mobile estão identicos.
 ### Mobile
 
 ![Mobile1](https://github.com/filipebsmaia/gympoint/blob/master/imgs/mobile1.png)
