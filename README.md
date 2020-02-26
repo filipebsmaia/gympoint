@@ -52,17 +52,55 @@ $ npm run sequelize db:migrate
 $ npm run sequelize db:seed:all
 ```
 
-server: `$ yarn dev` _or_ `$ npm run dev`
-queues: `$ yarn queue` _or_ `$ npm run queue`
+server:
+
+```
+$ yarn dev
+```
+
+_or_
+
+```
+$ npm run dev
+```
+
+queues:
+
+```
+$ yarn queue
+```
+
+_or_
+
+```
+$ npm run queue
+```
 
 ### Frontend
 
-- yarn start
+```
+$ yarn start
+```
+
+_or_
+
+```
+$ npm run start
+```
 
 ### Mobile
 
-- yarn android
-- yarn start
+```
+$ yarn android
+$ yarn start
+```
+
+_or_
+
+```
+$ npm run android
+$ npm run start
+```
 
 ### Configurações locais
 
